@@ -10,3 +10,6 @@
 
 # Answer based off our data
 # X City's restaurants spending typically averages X% higher in June and July than winter months based on historical data. Based off recent world cup data we have seen consumer spending increase X% to this average, so for the duration of the world cup expect consumer spending in XYZ cities to increase by X% compared to summers over the past 4 years.
+
+# Source
+https://economictracker.org/
