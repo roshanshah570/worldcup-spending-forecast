@@ -1,15 +1,40 @@
-# FIFA World Cup 2026: Measuring Food & Accommodation Spending Surges in US Cities Using SARIMA Baseline Forecasting
+# FIFA World Cup 2026: Measuring Food & Accommodation Spending Surges in US Host Cities
 
-### Trains SARIMA models on 4+ years of historical consumer spending data to establish pre-tournament baselines for 9 US cities, then quantifies the World Cup spending premium as live data becomes available, helping local business owners plan inventory and staffing for the tournament.
+### Using SARIMA time series forecasting to establish pre-tournament consumer spending baselines across 9 US cities, then quantifying the World Cup spending premium as live data becomes available.
 
-# Questions to be answered
-### 1. How much does spending increase vs normal summer?
-### 2. Which week peaks, is it match days, the week of the final, or the opening weekend
-### 3. Do non-host cities see spillover?
-### 4. Which city sees the biggest impact in consumer spending?
+## Project Overview
+This project trains SARIMA models on 4+ years of historical restaurant and hotel consumer spending data to forecast what spending would look like in a normal summer without the World Cup. By comparing these baselines against actual June/July 2026 spending data, we quantify the tournament's economic impact on local businesses across US host and control cities.
 
-# Answer based off our data
-# X City's restaurants spending typically averages X% higher in June and July than winter months based on historical data. Based off recent world cup data we have seen consumer spending increase X% to this average, so for the duration of the world cup expect consumer spending in XYZ cities to increase by X% compared to summers over the past 4 years.
 
-# Source
-https://economictracker.org/
+## Research Questions
+1. How much does spending increase vs a normal summer baseline?
+2. Which week peaks — opening weekend, match days, or the final?
+3. Do non-host cities see spillover effects?
+4. Which host city sees the biggest impact?
+
+
+## Cities Analyzed
+**Host Cities:** Dallas, Los Angeles, Atlanta, Boston, Kansas City  
+**Control Cities:** Chicago, Austin, Denver, Charlotte
+
+
+## Methodology
+1. **EDA** — Explored historical spending patterns (2022–2026) across all 9 cities
+2. **SARIMA Modeling** — Built individual SARIMA models per city using auto_arima parameter selection
+3. **Model Evaluation** — Walk-forward cross-validation to validate forecast accuracy
+4. **World Cup Analysis** — Baseline forecasts compared against live 2026 tournament data as it becomes available to quantify world cup affect on food and accommodation consumer spending
+
+## Stack
+Python · Pandas · Statsmodels · pmdarima · Matplotlib · Seaborn · Scikit-learn
+
+## Status
+**In Progress** — SARIMA baseline models built and validated. World Cup spending comparison pending Opportunity Insights June/July 2026 data release (expected July/August 2026).
+
+
+## Key Finding (Preliminary)
+Non-host cities historically outperform host cities in restaurant and hotel spending, largely driven by Los Angeles persistently underperforming other metros. Any divergence above SARIMA-forecasted baselines during World Cup weeks will be attributed to the tournament effect.
+
+
+## Data Source
+[Opportunity Insights Economic Tracker](https://economictracker.org)  
+Chetty, Friedman, Stepner, and the Opportunity Insights Team (QJE 2023)
