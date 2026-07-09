@@ -1,0 +1,217 @@
+Date,City,Fold,Actual,Predicted,Host_status
+2024-06-30,Los Angeles,1,-0.167,-0.1301,Host
+2024-07-31,Los Angeles,1,-0.151,-0.1416,Host
+2024-08-31,Los Angeles,1,-0.192,-0.1818,Host
+2024-09-30,Los Angeles,1,-0.166,-0.156,Host
+2024-10-31,Los Angeles,1,-0.163,-0.1633,Host
+2024-11-30,Los Angeles,1,-0.171,-0.1788,Host
+2024-12-31,Los Angeles,1,-0.15,-0.1424,Host
+2025-01-31,Los Angeles,1,-0.104,-0.143,Host
+2025-02-28,Los Angeles,1,-0.122,-0.1361,Host
+2025-03-31,Los Angeles,1,-0.115,-0.1324,Host
+2025-04-30,Los Angeles,1,-0.132,-0.1564,Host
+2025-05-31,Los Angeles,1,-0.131,-0.1449,Host
+2025-06-30,Los Angeles,2,-0.152,-0.1595,Host
+2025-07-31,Los Angeles,2,-0.147,-0.1509,Host
+2025-08-31,Los Angeles,2,-0.162,-0.1834,Host
+2025-09-30,Los Angeles,2,-0.161,-0.1628,Host
+2025-10-31,Los Angeles,2,-0.136,-0.1604,Host
+2025-11-30,Los Angeles,2,-0.158,-0.1668,Host
+2025-12-31,Los Angeles,2,-0.142,-0.1501,Host
+2026-01-31,Los Angeles,2,-0.098,-0.1138,Host
+2026-02-28,Los Angeles,2,-0.126,-0.128,Host
+2026-03-31,Los Angeles,2,-0.119,-0.1225,Host
+2026-04-30,Los Angeles,2,-0.118,-0.1359,Host
+2026-05-31,Los Angeles,2,-0.0976,-0.1351,Host
+2024-06-30,Denver,1,0.00781,0.0131,Non-Host
+2024-07-31,Denver,1,0.00782,0.0468,Non-Host
+2024-08-31,Denver,1,0.0191,0.0171,Non-Host
+2024-09-30,Denver,1,-0.00412,0.0489,Non-Host
+2024-10-31,Denver,1,0.0364,0.0395,Non-Host
+2024-11-30,Denver,1,-0.0295,-0.0007,Non-Host
+2024-12-31,Denver,1,0.00927,-0.0024,Non-Host
+2025-01-31,Denver,1,-0.0184,0.0044,Non-Host
+2025-02-28,Denver,1,0.0361,0.0439,Non-Host
+2025-03-31,Denver,1,0.0406,0.0331,Non-Host
+2025-04-30,Denver,1,0.0439,0.0346,Non-Host
+2025-05-31,Denver,1,0.054,0.0201,Non-Host
+2025-06-30,Denver,2,-0.00627,0.0133,Non-Host
+2025-07-31,Denver,2,0.00892,0.0359,Non-Host
+2025-08-31,Denver,2,0.033,0.0203,Non-Host
+2025-09-30,Denver,2,-0.00358,0.035,Non-Host
+2025-10-31,Denver,2,0.0301,0.0393,Non-Host
+2025-11-30,Denver,2,-0.0184,-0.0027,Non-Host
+2025-12-31,Denver,2,-0.0418,0.0059,Non-Host
+2026-01-31,Denver,2,-0.0138,0.0034,Non-Host
+2026-02-28,Denver,2,0.00544,0.0421,Non-Host
+2026-03-31,Denver,2,-0.000407,0.0363,Non-Host
+2026-04-30,Denver,2,0.0565,0.0381,Non-Host
+2026-05-31,Denver,2,0.0688,0.0314,Non-Host
+2024-06-30,Dallas,1,-0.00831,0.002,Host
+2024-07-31,Dallas,1,-0.0267,0.0011,Host
+2024-08-31,Dallas,1,-0.0252,-0.0344,Host
+2024-09-30,Dallas,1,0.0103,0.0115,Host
+2024-10-31,Dallas,1,0.0217,0.0058,Host
+2024-11-30,Dallas,1,0.0146,-0.0199,Host
+2024-12-31,Dallas,1,-0.0199,-0.0146,Host
+2025-01-31,Dallas,1,0.00351,-0.0202,Host
+2025-02-28,Dallas,1,0.05,0.0339,Host
+2025-03-31,Dallas,1,0.00857,-0.0108,Host
+2025-04-30,Dallas,1,0.112,0.022,Host
+2025-05-31,Dallas,1,0.0119,0.002,Host
+2025-06-30,Dallas,2,-0.0174,-0.0039,Host
+2025-07-31,Dallas,2,-0.00444,-0.0142,Host
+2025-08-31,Dallas,2,0.00373,-0.04,Host
+2025-09-30,Dallas,2,0.0214,-0.0012,Host
+2025-10-31,Dallas,2,0.0547,0.0052,Host
+2025-11-30,Dallas,2,0.0103,-0.0205,Host
+2025-12-31,Dallas,2,-0.0323,-0.0246,Host
+2026-01-31,Dallas,2,-0.034,-0.0104,Host
+2026-02-28,Dallas,2,0.0398,0.0273,Host
+2026-03-31,Dallas,2,0.00734,-0.012,Host
+2026-04-30,Dallas,2,0.0661,0.0583,Host
+2026-05-31,Dallas,2,0.0761,0.0055,Host
+2024-06-30,Chicago,1,0.155,0.15,Non-Host
+2024-07-31,Chicago,1,0.102,0.15,Non-Host
+2024-08-31,Chicago,1,0.0965,0.15,Non-Host
+2024-09-30,Chicago,1,0.112,0.15,Non-Host
+2024-10-31,Chicago,1,0.142,0.15,Non-Host
+2024-11-30,Chicago,1,0.161,0.15,Non-Host
+2024-12-31,Chicago,1,0.105,0.15,Non-Host
+2025-01-31,Chicago,1,0.123,0.15,Non-Host
+2025-02-28,Chicago,1,0.195,0.15,Non-Host
+2025-03-31,Chicago,1,0.198,0.15,Non-Host
+2025-04-30,Chicago,1,0.197,0.15,Non-Host
+2025-05-31,Chicago,1,0.244,0.15,Non-Host
+2025-06-30,Chicago,2,0.223,0.1936,Non-Host
+2025-07-31,Chicago,2,0.21,0.161,Non-Host
+2025-08-31,Chicago,2,0.191,0.1246,Non-Host
+2025-09-30,Chicago,2,0.206,0.1468,Non-Host
+2025-10-31,Chicago,2,0.197,0.1486,Non-Host
+2025-11-30,Chicago,2,0.183,0.1244,Non-Host
+2025-12-31,Chicago,2,0.147,0.1057,Non-Host
+2026-01-31,Chicago,2,0.179,0.1172,Non-Host
+2026-02-28,Chicago,2,0.269,0.1746,Non-Host
+2026-03-31,Chicago,2,0.192,0.157,Non-Host
+2026-04-30,Chicago,2,0.284,0.1642,Non-Host
+2026-05-31,Chicago,2,0.298,0.1835,Non-Host
+2024-06-30,Boston,1,0.174,0.1496,Host
+2024-07-31,Boston,1,0.121,0.1613,Host
+2024-08-31,Boston,1,-0.0151,0.086,Host
+2024-09-30,Boston,1,-0.00773,0.0313,Host
+2024-10-31,Boston,1,0.113,0.0669,Host
+2024-11-30,Boston,1,0.226,0.071,Host
+2024-12-31,Boston,1,0.179,0.133,Host
+2025-01-31,Boston,1,0.217,0.0943,Host
+2025-02-28,Boston,1,0.231,0.1772,Host
+2025-03-31,Boston,1,0.204,0.1579,Host
+2025-04-30,Boston,1,0.187,0.1496,Host
+2025-05-31,Boston,1,0.261,0.1758,Host
+2025-06-30,Boston,2,0.244,0.1931,Host
+2025-07-31,Boston,2,0.224,0.1401,Host
+2025-08-31,Boston,2,0.137,0.0506,Host
+2025-09-30,Boston,2,0.0547,0.0507,Host
+2025-10-31,Boston,2,0.152,0.1197,Host
+2025-11-30,Boston,2,0.214,0.1852,Host
+2025-12-31,Boston,2,0.18,0.1573,Host
+2026-01-31,Boston,2,0.18,0.1794,Host
+2026-02-28,Boston,2,0.18,0.1876,Host
+2026-03-31,Boston,2,0.15,0.1717,Host
+2026-04-30,Boston,2,0.26,0.1617,Host
+2026-05-31,Boston,2,0.269,0.2051,Host
+2024-06-30,Atlanta,1,0.0763,0.0788,Host
+2024-07-31,Atlanta,1,0.0445,0.0541,Host
+2024-08-31,Atlanta,1,0.0654,0.0229,Host
+2024-09-30,Atlanta,1,0.106,0.0848,Host
+2024-10-31,Atlanta,1,0.163,0.1225,Host
+2024-11-30,Atlanta,1,0.162,0.0651,Host
+2024-12-31,Atlanta,1,0.169,0.1034,Host
+2025-01-31,Atlanta,1,0.0947,0.0778,Host
+2025-02-28,Atlanta,1,0.221,0.1182,Host
+2025-03-31,Atlanta,1,0.181,0.0769,Host
+2025-04-30,Atlanta,1,0.172,0.1002,Host
+2025-05-31,Atlanta,1,0.192,0.1037,Host
+2025-06-30,Atlanta,2,0.089,0.1588,Host
+2025-07-31,Atlanta,2,0.0778,0.1246,Host
+2025-08-31,Atlanta,2,0.0984,0.1231,Host
+2025-09-30,Atlanta,2,0.103,0.1831,Host
+2025-10-31,Atlanta,2,0.194,0.2221,Host
+2025-11-30,Atlanta,2,0.124,0.1855,Host
+2025-12-31,Atlanta,2,0.103,0.2156,Host
+2026-01-31,Atlanta,2,0.0739,0.1648,Host
+2026-02-28,Atlanta,2,0.141,0.2454,Host
+2026-03-31,Atlanta,2,0.103,0.2001,Host
+2026-04-30,Atlanta,2,0.162,0.2186,Host
+2026-05-31,Atlanta,2,0.195,0.2214,Host
+2024-06-30,Kansas City,1,0.0779,0.0625,Host
+2024-07-31,Kansas City,1,0.119,0.1121,Host
+2024-08-31,Kansas City,1,0.0923,0.0664,Host
+2024-09-30,Kansas City,1,0.0832,0.0938,Host
+2024-10-31,Kansas City,1,0.0843,0.0667,Host
+2024-11-30,Kansas City,1,0.0181,-0.0836,Host
+2024-12-31,Kansas City,1,0.025,-0.0014,Host
+2025-01-31,Kansas City,1,0.112,0.0979,Host
+2025-02-28,Kansas City,1,0.221,0.1569,Host
+2025-03-31,Kansas City,1,0.21,0.1237,Host
+2025-04-30,Kansas City,1,0.295,0.1381,Host
+2025-05-31,Kansas City,1,0.273,0.0908,Host
+2025-06-30,Kansas City,2,0.178,0.1219,Host
+2025-07-31,Kansas City,2,0.219,0.1157,Host
+2025-08-31,Kansas City,2,0.186,0.0955,Host
+2025-09-30,Kansas City,2,0.199,0.0886,Host
+2025-10-31,Kansas City,2,0.202,0.0895,Host
+2025-11-30,Kansas City,2,0.0238,0.0395,Host
+2025-12-31,Kansas City,2,0.0693,0.0447,Host
+2026-01-31,Kansas City,2,0.237,0.1104,Host
+2026-02-28,Kansas City,2,0.282,0.1928,Host
+2026-03-31,Kansas City,2,0.264,0.1845,Host
+2026-04-30,Kansas City,2,0.338,0.2487,Host
+2026-05-31,Kansas City,2,0.329,0.2321,Host
+2024-06-30,Austin,1,0.0263,0.0701,Non-Host
+2024-07-31,Austin,1,0.0638,0.0965,Non-Host
+2024-08-31,Austin,1,0.0579,0.0172,Non-Host
+2024-09-30,Austin,1,0.104,0.0701,Non-Host
+2024-10-31,Austin,1,0.146,0.0602,Non-Host
+2024-11-30,Austin,1,0.109,0.0103,Non-Host
+2024-12-31,Austin,1,0.11,0.0478,Non-Host
+2025-01-31,Austin,1,0.0644,0.0252,Non-Host
+2025-02-28,Austin,1,0.159,0.1042,Non-Host
+2025-03-31,Austin,1,0.139,0.0382,Non-Host
+2025-04-30,Austin,1,0.157,0.1253,Non-Host
+2025-05-31,Austin,1,0.139,0.0941,Non-Host
+2025-06-30,Austin,2,0.0739,0.0928,Non-Host
+2025-07-31,Austin,2,0.103,0.1186,Non-Host
+2025-08-31,Austin,2,0.111,0.1145,Non-Host
+2025-09-30,Austin,2,0.126,0.1462,Non-Host
+2025-10-31,Austin,2,0.186,0.1751,Non-Host
+2025-11-30,Austin,2,0.141,0.1496,Non-Host
+2025-12-31,Austin,2,0.144,0.1503,Non-Host
+2026-01-31,Austin,2,0.102,0.119,Non-Host
+2026-02-28,Austin,2,0.213,0.184,Non-Host
+2026-03-31,Austin,2,0.165,0.1702,Non-Host
+2026-04-30,Austin,2,0.18,0.1826,Non-Host
+2026-05-31,Austin,2,0.18,0.1702,Non-Host
+2024-06-30,Charlotte,1,0.0234,0.029,Non-Host
+2024-07-31,Charlotte,1,-0.00395,0.0404,Non-Host
+2024-08-31,Charlotte,1,0.021,0.0257,Non-Host
+2024-09-30,Charlotte,1,0.0346,0.0478,Non-Host
+2024-10-31,Charlotte,1,0.0199,0.0295,Non-Host
+2024-11-30,Charlotte,1,0.0206,0.0078,Non-Host
+2024-12-31,Charlotte,1,-0.0194,0.0166,Non-Host
+2025-01-31,Charlotte,1,-0.0384,0.0061,Non-Host
+2025-02-28,Charlotte,1,0.0309,0.0435,Non-Host
+2025-03-31,Charlotte,1,0.0389,0.0218,Non-Host
+2025-04-30,Charlotte,1,0.0194,0.051,Non-Host
+2025-05-31,Charlotte,1,0.044,0.0361,Non-Host
+2025-06-30,Charlotte,2,-0.00326,0.0268,Non-Host
+2025-07-31,Charlotte,2,0.0167,0.0309,Non-Host
+2025-08-31,Charlotte,2,0.0547,0.0351,Non-Host
+2025-09-30,Charlotte,2,0.0454,0.0636,Non-Host
+2025-10-31,Charlotte,2,0.0757,0.0297,Non-Host
+2025-11-30,Charlotte,2,0.0358,0.0083,Non-Host
+2025-12-31,Charlotte,2,-0.0179,0.0013,Non-Host
+2026-01-31,Charlotte,2,-0.0782,-0.0144,Non-Host
+2026-02-28,Charlotte,2,0.0123,0.0512,Non-Host
+2026-03-31,Charlotte,2,0.0249,0.0291,Non-Host
+2026-04-30,Charlotte,2,0.0397,0.036,Non-Host
+2026-05-31,Charlotte,2,0.0668,0.0381,Non-Host
